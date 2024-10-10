@@ -1,0 +1,31 @@
+#gameContainer{
+    text-align: center;
+}
+
+#gameBoard{
+    border: 3px solid;
+}
+
+#scoreText{
+    font-family: "Arial", cursive;
+    font-size: 100px;
+}
+
+#resetBtn{
+    font-family: "Arial", cursive;
+    font-size: 22px;
+    width: 100px;
+    height: 50px;
+    border: 2px solid;
+    border-radius: 15px;
+    cursor: pointer;
+    background-color: rgb(200, 200, 200);
+}
+
+#resetBtn:hover{
+    background-color: rgb(210, 210, 210);
+}
+
+#resetBtn:active{
+    background-color: rgb(225, 225, 225);
+}
